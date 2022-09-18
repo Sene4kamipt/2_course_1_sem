@@ -1,3 +1,3 @@
 Powered by:
-  Kleichik
+  Kleichik,
   Vse_zovut_menya_suka
